@@ -1,33 +1,44 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+RAMAN KISHORE C REG NO: 212223080041
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+prompt-engineering-experiment-3
+PE EXPNO 3 Nice — sounds like you’re working on a prompt-engineering lab assignment. I’ll explain each of the four types in simple terms with examples, so you can see the difference clearly.
 
-### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
-1.	Straightforward Prompts:
-    - •	"Define photosynthesis in one sentence."
-    - 	"List three advantages of electric vehicles."
+1. Straightforward Prompts
+Definition: A direct, simple instruction or question given to the AI, without extra formatting or hidden cues.
 
- 3.	Tabular Format Prompting:
-     •	"Compare and contrast AC and DC current in a table."
-     •	"Provide a table listing five programming languages, their paradigms, and one use case each."
-3. Preceding Question Prompting:
-    •	"Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
-    •	"How do vaccines work? Describe the process of immunization in simple terms."
-4. Missing Word Prompting:
-   •	"The capital of France is ____."
-  •	"In photosynthesis, plants absorb sunlight to produce ____."
+Example:
 
+Prompt: “Explain photosynthesis in one sentence.” Response: “Photosynthesis is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen.”
 
-### Conclusion 
+2. Tabular Format Prompting
+Definition: Here, the prompt asks the AI to organize information in a table, which makes data easy to compare and read.
 
+Example:
 
-Result: The various types of Prompts are executed successfully with generated the report.
+Prompt: “List three planets with their distance from the sun and one unique feature in a table.” Response:
 
+Planet	Distance from Sun (AU)	Unique Feature
+Mercury	0.39	Smallest planet
+Venus	0.72	Hottest planet surface
+Earth	1.00	Supports known life
+3. Missing Word Prompting
+Definition: The AI is given an incomplete sentence or phrase and asked to fill in the missing part. This is useful for language tasks, quizzes, or training completion models.
 
+Example:
 
+Prompt: “The capital of France is ____.” Response: “Paris.”
 
-# Result: Thus the Prompts were exected succcessfully.
+4. Preceding Question Prompting
+Definition: You first ask a preparatory question or give context, and then ask the main question. This helps the AI understand the background and give better answers.
+
+Example:
+
+Prompt:
+
+“What is the boiling point of water at sea level?”
+“Now, explain why it changes at higher altitudes.” Response:
+“The boiling point of water at sea level is 100°C.”
+“It changes at higher altitudes because lower air pressure reduces the temperature at which water boils.”
+
 
